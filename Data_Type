@@ -1,0 +1,26 @@
+/*two type of data type in java
+(1)--> Primitive data type
+(2)--> non-Primitive data type*/
+# Primitive data types
+int, byte, long, short, float, double, char, boolean
+#syntax
+int number = 8;
+int --> data type
+number --> variable name
+8 --> value is store
+
+# literals in java
+a constant value which acn be assigned to the variable is called as a literal.
+byte c=3;
+int a=8;
+short b=9;
+long d=7;
+float e=3,4f;
+double f=3,787;
+char h="A";
+boolean t=true;
+
+
+
+
+
